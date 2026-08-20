@@ -1,16 +1,15 @@
 ## Hi there 👋 I'm Neesha
 
-<!--
-**neeshanaseeR/neeshanaseeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Economics & Data Analytics graduate from the University of Manchester, with an interest in using data to explore real-world questions and uncover meaningful insights.
 
-Here are some ideas to get you started:
+My academic and research work has involved statistical analysis, data cleaning, visualisation, statistical modelling, and research, with projects ranging from social research to analysing factors associated with academic citation impact.
 
-- 🔭 I’m currently working on not being a freeloader
-- 🌱 I’m currently learning using git and GitHub.
-- 👯 I’m looking to collaborate on python / data analytics / R
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I Work With
+R & RStudio
+Statistical analysis & modelling
+Data cleaning & visualisation
+Regression analysis
+Research & empirical analysis
+Working with real-world datasets
+
+I'm currently building my portfolio and using GitHub to document my projects, analyses, and things I'm learning along the way.
